@@ -106,7 +106,7 @@ No proprietary data. No company names, no customer information, nothing confiden
 
 ## About
 
-I run go-to-market and sales leadership in tech. I write a LinkedIn series called *Advancing Your Career* and keep a public presence at [geofftrembley.com](https://geofftrembley.com).
+I run go-to-market and sales leadership in tech. I keep a public presence at [geofftrembley.com](https://geofftrembley.com).
 
 Connect: [linkedin.com/in/geofftrembley](https://www.linkedin.com/in/geofftrembley/)
 
